@@ -22,7 +22,7 @@ A Cybersecurity professional working on improving my penetration testing, vulner
 ## 🧠 Cybersecurity Labs & Challenges
 - [SOC L1 Alert Triage](https://github.com/ShaniyaS13/SOC-L1-Alert-Triage-Writeup/blob/main/SOC-L1-Alert-Triage-README.md) — Practical Hands-on SOC Level 1 simulation
 - [Threat Intelligence Tools](https://github.com/ShaniyaS13/SOC-Labs/blob/main/Threat-Intelligence-Tools-README.md) Practical Hands-on Threat Intelligence Practical Lab
-  
+- [Incident Handling With Splunk](https://github.com/ShaniyaS13/SOC-Labs/blob/main/Incident-handling-with-Splunk-README.md) Practical Hands-on Incident Response Practical Lab  
 <br> <!-- Adds extra space -->
 
 
